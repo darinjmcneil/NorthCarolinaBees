@@ -1,0 +1,132 @@
+"","year","state_alpha","state_fips","value","Categories","crop_usgs","kg_ha","ld50_ct_ha_bil","ld50_or_ha_bil","unsurveyed","noncrop"
+"127595",2016,"NC",37,1,"Corn","Corn",0.0108068165119099,0.459806892846082,0.0587965965846753,0,0
+"127596",2016,"NC",37,2,"Cotton","Cotton",0.838767951099922,13.399766459232,39.5316856237334,0,0
+"127597",2016,"NC",37,3,"Rice","Rice",NA,NA,NA,0,0
+"127598",2016,"NC",37,4,"Sorghum","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127599",2016,"NC",37,5,"Soybeans","Soybeans",0.0613472804647769,1.40439660500481,0.369061333385652,0,0
+"127600",2016,"NC",37,6,"Sunflower","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127601",2016,"NC",37,10,"Peanuts","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127602",2016,"NC",37,11,"Tobacco","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127603",2016,"NC",37,12,"Sweet Corn","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127604",2016,"NC",37,13,"Pop or Orn Corn","Not_surveyed",NA,NA,NA,1,0
+"127605",2016,"NC",37,14,"Mint","Not_surveyed",NA,NA,NA,1,0
+"127606",2016,"NC",37,21,"Barley","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127607",2016,"NC",37,22,"Durum Wheat","Wheat",0.0165449087879157,0.33450941666225,0.0424369573562147,0,0
+"127608",2016,"NC",37,23,"Spring Wheat","Wheat",0.0165449087879157,0.33450941666225,0.0424369573562147,0,0
+"127609",2016,"NC",37,24,"Winter Wheat","Wheat",0.0165449087879157,0.33450941666225,0.0424369573562147,0,0
+"127610",2016,"NC",37,25,"Other Small Grains","Not_surveyed",NA,NA,NA,1,0
+"127611",2016,"NC",37,26,"Dbl Crop WinWht/Soybeans","Not_surveyed",NA,NA,NA,1,0
+"127612",2016,"NC",37,27,"Rye","Not_surveyed",NA,NA,NA,1,0
+"127613",2016,"NC",37,28,"Oats","Not_surveyed",NA,NA,NA,1,0
+"127614",2016,"NC",37,29,"Millet","Not_surveyed",NA,NA,NA,1,0
+"127615",2016,"NC",37,30,"Speltz","Not_surveyed",NA,NA,NA,1,0
+"127616",2016,"NC",37,31,"Canola","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127617",2016,"NC",37,32,"Flaxseed","Not_surveyed",NA,NA,NA,1,0
+"127618",2016,"NC",37,33,"Safflower","Not_surveyed",NA,NA,NA,1,0
+"127619",2016,"NC",37,34,"Rape Seed","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127620",2016,"NC",37,35,"Mustard","Not_surveyed",NA,NA,NA,1,0
+"127621",2016,"NC",37,36,"Alfalfa","Alfalfa",0.0229288943274926,0.507750230341006,0.0640591950920845,0,0
+"127622",2016,"NC",37,37,"Other Hay/Non Alfalfa","Pasture_and_hay",NA,NA,NA,0,0
+"127623",2016,"NC",37,38,"Camelina","Not_surveyed",NA,NA,NA,1,0
+"127624",2016,"NC",37,39,"Buckwheat","Not_surveyed",NA,NA,NA,1,0
+"127625",2016,"NC",37,41,"Sugarbeets","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127626",2016,"NC",37,42,"Dry Beans","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127627",2016,"NC",37,43,"Potatoes","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127628",2016,"NC",37,44,"Other Crops","Not_surveyed",NA,NA,NA,1,0
+"127629",2016,"NC",37,45,"Sugarcane","Other_crops",0.658374914745943,7.11482981690606,22.3837441689096,0,0
+"127630",2016,"NC",37,46,"Sweet Potatoes","Not_surveyed",NA,NA,NA,1,0
+"127631",2016,"NC",37,47,"Misc Vegs & Fruits","Not_surveyed",NA,NA,NA,1,0
+"127632",2016,"NC",37,48,"Watermelons","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127633",2016,"NC",37,49,"Onions","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127634",2016,"NC",37,50,"Cucumbers","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127635",2016,"NC",37,51,"Chick Peas","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127636",2016,"NC",37,52,"Lentils","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127637",2016,"NC",37,53,"Peas","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127638",2016,"NC",37,54,"Tomatoes","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127639",2016,"NC",37,55,"Caneberries","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127640",2016,"NC",37,56,"Hops","Not_surveyed",NA,NA,NA,1,0
+"127641",2016,"NC",37,57,"Herbs","Not_surveyed",NA,NA,NA,1,0
+"127642",2016,"NC",37,58,"Clover/Wildflowers","Not_surveyed",NA,NA,NA,1,0
+"127643",2016,"NC",37,59,"Sod/Grass Seed","Not_surveyed",NA,NA,NA,1,0
+"127644",2016,"NC",37,60,"Switchgrass","Not_surveyed",NA,NA,NA,1,0
+"127645",2016,"NC",37,61,"Fallow/Idle Cropland","Pasture_and_hay",NA,NA,NA,0,0
+"127646",2016,"NC",37,62,"Pasture/Grass","Pasture_and_hay",NA,NA,NA,0,0
+"127647",2016,"NC",37,63,"Forest","Non_crop",NA,NA,NA,0,1
+"127648",2016,"NC",37,64,"Shrubland","Non_crop",NA,NA,NA,0,1
+"127649",2016,"NC",37,65,"Barren","Non_crop",NA,NA,NA,0,1
+"127650",2016,"NC",37,66,"Cherries","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127651",2016,"NC",37,67,"Peaches","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127652",2016,"NC",37,68,"Apples","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127653",2016,"NC",37,69,"Grapes","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127654",2016,"NC",37,70,"Christmas Trees","Not_surveyed",NA,NA,NA,1,0
+"127655",2016,"NC",37,71,"Other Tree Crops","Not_surveyed",NA,NA,NA,1,0
+"127656",2016,"NC",37,72,"Citrus","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127657",2016,"NC",37,74,"Pecans","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127658",2016,"NC",37,75,"Almonds","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127659",2016,"NC",37,76,"Walnuts","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127660",2016,"NC",37,77,"Pears","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127661",2016,"NC",37,83,"Water","Non_crop",NA,NA,NA,0,1
+"127662",2016,"NC",37,87,"Wetlands","Non_crop",NA,NA,NA,0,1
+"127663",2016,"NC",37,92,"Aquaculture","Non_crop",NA,NA,NA,0,1
+"127664",2016,"NC",37,111,"Open Water","Non_crop",NA,NA,NA,0,1
+"127665",2016,"NC",37,112,"Perennial Ice/Snow","Non_crop",NA,NA,NA,0,1
+"127666",2016,"NC",37,121,"Developed/Open Space","Non_crop",NA,NA,NA,0,1
+"127667",2016,"NC",37,122,"Developed/Low Intensity","Non_crop",NA,NA,NA,0,1
+"127668",2016,"NC",37,123,"Developed/Med Intensity","Non_crop",NA,NA,NA,0,1
+"127669",2016,"NC",37,124,"Developed/High Intensity","Non_crop",NA,NA,NA,0,1
+"127670",2016,"NC",37,131,"Barren","Non_crop",NA,NA,NA,0,1
+"127671",2016,"NC",37,141,"Deciduous Forest","Non_crop",NA,NA,NA,0,1
+"127672",2016,"NC",37,142,"Evergreen Forest","Non_crop",NA,NA,NA,0,1
+"127673",2016,"NC",37,143,"Mixed Forest","Non_crop",NA,NA,NA,0,1
+"127674",2016,"NC",37,152,"Shrubland","Non_crop",NA,NA,NA,0,1
+"127675",2016,"NC",37,171,"Grassland Herbaceous","Non_crop",NA,NA,NA,0,1
+"127676",2016,"NC",37,176,"Grassland/Pasture","Pasture_and_hay",NA,NA,NA,0,0
+"127677",2016,"NC",37,181,"Pasture/Hay","Pasture_and_hay",NA,NA,NA,0,0
+"127678",2016,"NC",37,190,"Woody Wetlands","Non_crop",NA,NA,NA,0,1
+"127679",2016,"NC",37,195,"Herbaceous Wetlands","Non_crop",NA,NA,NA,0,1
+"127680",2016,"NC",37,204,"Pistachios","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127681",2016,"NC",37,205,"Triticale","Not_surveyed",NA,NA,NA,1,0
+"127682",2016,"NC",37,206,"Carrots","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127683",2016,"NC",37,207,"Asparagus","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127684",2016,"NC",37,208,"Garlic","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127685",2016,"NC",37,209,"Cantaloupes","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127686",2016,"NC",37,210,"Prunes","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127687",2016,"NC",37,211,"Olives","Not_surveyed",NA,NA,NA,1,0
+"127688",2016,"NC",37,212,"Oranges","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127689",2016,"NC",37,213,"Honeydew Melons","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127690",2016,"NC",37,214,"Broccoli","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127691",2016,"NC",37,216,"Peppers","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127692",2016,"NC",37,217,"Pomegranates","Not_surveyed",NA,NA,NA,1,0
+"127693",2016,"NC",37,218,"Nectarines","Not_surveyed",NA,NA,NA,1,0
+"127694",2016,"NC",37,219,"Greens","Not_surveyed",NA,NA,NA,1,0
+"127695",2016,"NC",37,220,"Plums","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127696",2016,"NC",37,221,"Strawberries","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127697",2016,"NC",37,222,"Squash","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127698",2016,"NC",37,223,"Apricots","Orchards_and_grapes",1.81919212826325,16.2368932872758,8.00893937305213,0,0
+"127699",2016,"NC",37,224,"Vetch","Not_surveyed",NA,NA,NA,1,0
+"127700",2016,"NC",37,225,"Dbl Crop WinWht/Corn","Not_surveyed",NA,NA,NA,1,0
+"127701",2016,"NC",37,226,"Dbl Crop Oats/Corn","Not_surveyed",NA,NA,NA,1,0
+"127702",2016,"NC",37,227,"Lettuce","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127703",2016,"NC",37,229,"Pumpkins","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127704",2016,"NC",37,230,"Dbl Crop Lettuce/Durum Wht","Not_surveyed",NA,NA,NA,1,0
+"127705",2016,"NC",37,231,"Dbl Crop Lettuce/Cantaloupe","Not_surveyed",NA,NA,NA,1,0
+"127706",2016,"NC",37,232,"Dbl Crop Lettuce/Cotton","Not_surveyed",NA,NA,NA,1,0
+"127707",2016,"NC",37,233,"Dbl Crop Lettuce/Barley","Not_surveyed",NA,NA,NA,1,0
+"127708",2016,"NC",37,234,"Dbl Crop Durum Wht/Sorghum","Not_surveyed",NA,NA,NA,1,0
+"127709",2016,"NC",37,235,"Dbl Crop Barley/Sorghum","Not_surveyed",NA,NA,NA,1,0
+"127710",2016,"NC",37,236,"Dbl Crop WinWht/Sorghum","Not_surveyed",NA,NA,NA,1,0
+"127711",2016,"NC",37,237,"Dbl Crop Barley/Corn","Not_surveyed",NA,NA,NA,1,0
+"127712",2016,"NC",37,238,"Dbl Crop WinWht/Cotton","Not_surveyed",NA,NA,NA,1,0
+"127713",2016,"NC",37,239,"Dbl Crop Soybeans/Cotton","Not_surveyed",NA,NA,NA,1,0
+"127714",2016,"NC",37,240,"Dbl Crop Soybeans/Oats","Not_surveyed",NA,NA,NA,1,0
+"127715",2016,"NC",37,241,"Dbl Crop Corn/Soybeans","Not_surveyed",NA,NA,NA,1,0
+"127716",2016,"NC",37,242,"Blueberries","Not_surveyed",NA,NA,NA,1,0
+"127717",2016,"NC",37,243,"Cabbage","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127718",2016,"NC",37,244,"Cauliflower","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127719",2016,"NC",37,245,"Celery","Vegetables_and_fruit",0.33653780561586,4.97156926027855,12.3574003169075,0,0
+"127720",2016,"NC",37,246,"Radishes","Not_surveyed",NA,NA,NA,1,0
+"127721",2016,"NC",37,247,"Turnips","Not_surveyed",NA,NA,NA,1,0
+"127722",2016,"NC",37,248,"Eggplants","Not_surveyed",NA,NA,NA,1,0
+"127723",2016,"NC",37,249,"Gourds","Not_surveyed",NA,NA,NA,1,0
+"127724",2016,"NC",37,250,"Cranberries","Not_surveyed",NA,NA,NA,1,0
+"127725",2016,"NC",37,254,"Dbl Crop Barley/Soybeans","Not_surveyed",NA,NA,NA,1,0
