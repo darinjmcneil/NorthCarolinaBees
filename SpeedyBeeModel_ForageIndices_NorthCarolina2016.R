@@ -3,6 +3,11 @@
 # shapefile available here: https://www.igismap.com/united-states-shapefile-download-free-map-boundary-states-and-county/
 # reclass table available by contacting Dr. Maggie Douglas ()
 
+# install.packages("devtools")
+# install.packages("raster")
+# library(devtools)
+# devtools::install_github("land-4-bees/SpeedyBeeModel")
+
 library(sf); library(raster); library(logger); library(tidyr); library(SpeedyBeeModel)
 
 # bring in cropland data layer (CDL)
@@ -31,7 +36,7 @@ MaskedCDL <- raster::mask(CroppedCDL, NorthCarolinaBoundary) # mask cropped CDL 
 plot(MaskedCDL, main="CDL, North Carolina 2016") # this takes a minute or two
 writeRaster(MaskedCDL, "E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC_CDL2016_Raster.tif", overwrite = TRUE) # takes a minute or two
 # unique(MaskedCDL)
-dev.off()
+# dev.off()
 # hist(MaskedCDL)
 
 # prepare pesticide reclass table for NC 2016
@@ -70,13 +75,16 @@ SpeedyBeeModel::forage_index(
     output_dir = "E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC2016_LonsdorfIndices", # output loc
     landcover_path  = "E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC_CDL2016_Raster.tif", # path to NC CDL map
     forage_table = ForageTable1,
-    seasons = c("Floral_Spring"),
+    seasons = c("Nest_Cavity"),
     forage_range = 2000,
     guild_table = NA,
     agg_factor = NA,
-    normalize = F,
+    normalize = T,
     compress_rasters = T
 )
+
+NCfloral <- raster("E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC2016_LonsdorfIndices\\NC_CDL2016_Raster_Nest_Cavity.tif")
+plot(NCfloral)
 
 # getting an error about missing raster classes
 # this is text from mel to figure out what's missing
