@@ -3,11 +3,7 @@
 # shapefile available here: https://www.igismap.com/united-states-shapefile-download-free-map-boundary-states-and-county/
 # reclass table available by contacting Dr. Maggie Douglas ()
 
-library(sf)
-library(raster)
-library(logger)
-library(tidyr)
-library(SpeedyBeeModel)
+library(sf); library(raster); library(logger); library(tidyr); library(SpeedyBeeModel)
 
 # bring in cropland data layer (CDL)
 
@@ -33,8 +29,9 @@ plot(NorthCarolinaBoundary$geometry) # nice!
 CroppedCDL <- crop(cdl_2016, NorthCarolinaBoundary) # crop CDL using NC boundary polygon
 MaskedCDL <- raster::mask(CroppedCDL, NorthCarolinaBoundary) # mask cropped CDL using NC bounds
 plot(MaskedCDL, main="CDL, North Carolina 2016") # this takes a minute or two
-writeRaster(MaskedCDL, "E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC_CDL2016_Raster.tif") # takes a minute or two
+writeRaster(MaskedCDL, "E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC_CDL2016_Raster.tif", overwrite = TRUE) # takes a minute or two
 # unique(MaskedCDL)
+dev.off()
 # hist(MaskedCDL)
 
 # prepare pesticide reclass table for NC 2016
@@ -80,3 +77,14 @@ SpeedyBeeModel::forage_index(
     normalize = F,
     compress_rasters = T
 )
+
+# getting an error about missing raster classes
+# this is text from mel to figure out what's missing
+
+forage_table <- ForageTable1
+hab.r <- raster::raster("E:\\2021_NC_Bees\\NorthCarolinaBees2021\\NC_CDL2016_Raster.tif")
+same <- unique(raster::values(hab.r)) %in% forage_table$LULC
+missing <- unique(raster::values(hab.r))[!same]
+missing <- missing[!is.na(missing)]
+missing
+
