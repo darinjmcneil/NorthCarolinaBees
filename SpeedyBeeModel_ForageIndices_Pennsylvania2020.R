@@ -12,7 +12,7 @@ library(sf); library(raster); library(logger); library(tidyr); library(SpeedyBee
 rm(list=ls())
 # bring in cropland data layer (CDL)
 
-cdl_2020 <- raster("E:\\2021_NC_Bees\\NorthCarolinaBees2021\\2020_30m_cdls\\2020_30m_cdls.img") # read in CDL
+cdl_2020 <- raster("E:\\2021_NC_Bees\\2020_30m_cdls\\2020_30m_cdls.img") # read in CDL
 #cdl_2020 <- raster::raster('Y:/SpatialData/NASS_CDL/CDL2020/2020_30m_cdls.img') #file path on Melanie's computer
 plot(cdl_2020, main="CDL 2020") # map CDL
 
@@ -91,6 +91,9 @@ plot(PAfloral)
 
 PAnest <- raster("./PA2020_LonsdorfIndices/PA_CDL2020_Raster_Nest_Cavity.tif")
 plot(PAnest)
+
+PAfloral2 <- raster("./PA2020_LonsdorfIndices/PA_CDL2020_Raster_Floral_Summer.tif")
+plot(PAfloral2)
 
 # getting an error about missing raster classes
 # this is text from mel to figure out what's missing
